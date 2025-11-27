@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/FashionMNIST/
+data/data/
+
+# Exclude generated python script from notebook
+paul15_flow_matching.py
+
